@@ -23,13 +23,13 @@ The YFI token has a supply of 36,666 tokens and there is no emissions schedule t
 
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the YIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
 
-A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what _will_ be done if the YIP is implemented, not _why_ it should be done or _how_ it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".
+
 
 ## Motivation
 
 <!--This is the problem statement. This is the *why* of the YIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the YIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the YIP will address the issue!-->
 
-This is the problem statement. This is the _why_ of the YIP. It should clearly explain _why_ the current state of the protocol is inadequate. It is critical that you explain _why_ the change is needed, if the YIP proposes changing how something is calculated, you must address _why_ the current calculation is innaccurate or wrong. This is not the place to describe how the YIP will address the issue!
+
 
 ## Specification
 
@@ -45,25 +45,25 @@ This is the problem statement. This is the _why_ of the YIP. It should clearly e
 
 <!--This is a high level overview of *how* the YIP will solve the problem. The overview should clearly describe how the new feature will be implemented.-->
 
-This is a high level overview of _how_ the YIP will solve the problem. The overview should clearly describe how the new feature will be implemented.
+
 
 ### Rationale
 
 <!--This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
 
-This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
+
 
 ### Technical Specification
 
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Yearn Finance currently exposes or the creations of new ones.-->
 
-The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Yearn Finance currently exposes or the creations of new ones.
+
 
 ### Test Cases
 
 <!--Test cases for an implementation are mandatory for YIPs but can be included with the implementation..-->
 
-Test cases for an implementation are mandatory for YIPs but can be included with the implementation.
+
 
 ## Copyright
 
