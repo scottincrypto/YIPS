@@ -13,6 +13,7 @@ More detail here:  [ySPLIT](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKK
 
 ## Option B - veYFI
 Treasury earnings are accumulated and used to buy and hold YFI tokens, with the option of spending these on the development of the yearn.finance ecosystem. This reduces circulating supply if spending is less than earnings but there are no guarantees that these holdings will not be spent.
+
 The veYFI option proposes a token locking mechanism modelled from veCRV. YFI holders can stake and lock their tokens for a period of up to 4 years, and in return will receive voting rights (via veYFI tokens) on the distribution of treasury earnings to yearn vaults. The BABY mechanism continues to buy YFI using treasury earnings but the deployment of the earnings is altered as follows:
 
 - An operational treasury is maintained in stablecoins with a minimum balance of $30m
