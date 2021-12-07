@@ -53,6 +53,6 @@ The full text of the draft proposal is here: [BurnKeYs](https://docs.google.com/
 This proposal keeps the YFI tokenomics as they are now, and proposes a campaign to inform YFI holders and potential investors of the benefits of the current tokenomics system. Discussion for new ideas to increase excitement for YFI and Yearn overall will continue. Ideas discussed in #status-quo included adding more explicit ownership of the Treasury to YFI holders through a possible withdrawal mechanism, using the Treasury to provide liquidity in yvTokens, and increasing focus to appeal to DAOs, possibly with custom DAO treasury vaults.
 
 ### Acknowledgements
-This proposal is the result of discussions and input from:
+This proposal is the result of lots of input and work from the community. A few of those are mentioned here:
 0x_bear, onlylarping, BraveNewDefi + Iguana & Owl, HatTip3675, Reese, defiglenn, bobe, J-yhelper, bfs, Vany, scottincrypto & fin4dao
 
